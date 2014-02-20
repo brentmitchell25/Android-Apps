@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.eecs448.kuville.Eaton&apos; to &apos;Building&apos;&#x0A;- Original project: &apos;KUVille&apos;&#x0A;- Original element: &apos;com.eecs448.kuville.Eaton&apos;&#x0A;- Renamed element: &apos;com.eecs448.kuville.Building&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Eaton&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.eecs448.kuville{Eaton.java[Eaton" matchStrategy="1" name="Building" qualified="false" references="true" similarDeclarations="false" stamp="1386355746903" textual="false" version="1.0"/>
+</session>

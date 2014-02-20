@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.eecs448.kuville.main&apos; to &apos;com.eecs448.kuville.start&apos;&#x0A;- Original project: &apos;MapLibrary&apos;&#x0A;- Original element: &apos;MapLibrary/src/com.eecs448.kuville.main&apos;&#x0A;- Renamed element: &apos;MapLibrary/src/com.eecs448.kuville.start&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.eecs448.kuville.main&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.eecs448.kuville.main" name="com.eecs448.kuville.start" qualified="false" references="true" stamp="1386465324221" textual="false" version="1.0"/>
+</session>

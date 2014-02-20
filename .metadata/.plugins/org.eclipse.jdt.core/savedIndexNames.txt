@@ -1,0 +1,23 @@
+INDEX VERSION 1.126+/Users/brentmitchell/Documents/Android Apps/.metadata/.plugins/org.eclipse.jdt.core
+939622458.index
+1367489043.index
+1993970208.index
+2248140758.index
+1912279146.index
+4207073428.index
+2516169143.index
+1033470974.index
+29244612.index
+2217377987.index
+2839737659.index
+895353237.index
+4281050185.index
+454760078.index
+3848462231.index
+2891032649.index
+3869858663.index
+3645251195.index
+1114762847.index
+1415693123.index
+364621263.index
+3929499828.index

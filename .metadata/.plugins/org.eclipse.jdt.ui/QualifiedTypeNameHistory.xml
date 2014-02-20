@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.content.pm.Signature"/>
+<fullyQualifiedTypeName name="android.os.Bundle"/>
+<fullyQualifiedTypeName name="android.content.DialogInterface.OnClickListener"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="android.content.ContentValues"/>
+<fullyQualifiedTypeName name="com.eecs448.kuville.R.string"/>
+<fullyQualifiedTypeName name="android.app.ActionBar.LayoutParams"/>
+<fullyQualifiedTypeName name="com.eecs448.kuville.R.drawable"/>
+<fullyQualifiedTypeName name="com.eecs448.kuville.R.styleable"/>
+<fullyQualifiedTypeName name="com.eecs448.kuville.main.MapActivity"/>
+<fullyQualifiedTypeName name="android.app.Activity"/>
+<fullyQualifiedTypeName name="android.content.res.Resources"/>
+<fullyQualifiedTypeName name="com.example.R.id"/>
+<fullyQualifiedTypeName name="com.example.R.drawable"/>
+<fullyQualifiedTypeName name="com.easy.facebook.android.data.Group"/>
+<fullyQualifiedTypeName name="com.easy.facebook.android.data.Feed"/>
+<fullyQualifiedTypeName name="com.google.android.gms.maps.model.MarkerOptions"/>
+<fullyQualifiedTypeName name="android.graphics.Typeface"/>
+<fullyQualifiedTypeName name="com.markupartist.android.widget.PullToRefreshListView"/>
+<fullyQualifiedTypeName name="com.eecs448.kuville.StoredUpgrades"/>
+<fullyQualifiedTypeName name="android.widget.LinearLayout"/>
+<fullyQualifiedTypeName name="android.content.SharedPreferences"/>
+<fullyQualifiedTypeName name="android.view.MenuItem"/>
+<fullyQualifiedTypeName name="com.eecs448.kuville.maplibrary.R.id"/>
+<fullyQualifiedTypeName name="android.text.Html"/>
+<fullyQualifiedTypeName name="android.text.SpannableString"/>
+<fullyQualifiedTypeName name="android.text.style.AlignmentSpan"/>
+<fullyQualifiedTypeName name="android.text.Spannable"/>
+<fullyQualifiedTypeName name="android.text.Layout.Alignment"/>
+<fullyQualifiedTypeName name="com.eecs448.kuville.maplibrary.R"/>
+<fullyQualifiedTypeName name="com.google.android.gms.internal.dp"/>
+<fullyQualifiedTypeName name="com.eecs448.kuville.R.array"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="twitter4j.auth.AccessToken"/>
+<fullyQualifiedTypeName name="com.eecs448.kuville.start.MapActivity"/>
+<fullyQualifiedTypeName name="com.eecs448.kuville.TwitterLoginLogout"/>
+<fullyQualifiedTypeName name="com.facebook.Session"/>
+<fullyQualifiedTypeName name="com.eecs448.kuville.LogoutSocialMedia"/>
+<fullyQualifiedTypeName name="com.eecs448.kuville.R.id"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+</qualifiedTypeNameHistroy>
